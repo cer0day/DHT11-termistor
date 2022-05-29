@@ -5,3 +5,10 @@ Como enviar lecturas de un termistor y sensor DHT11, mediante la placa NodeMCU E
 2.-Arma el circuito como en el diagrama
 3.-Cpia el sitio web
 4.-Carga el archivo .ino en la placa arduino (No olvides poner la IP de tu servidor)
+
+
+
+
+
+
+@lamillo
